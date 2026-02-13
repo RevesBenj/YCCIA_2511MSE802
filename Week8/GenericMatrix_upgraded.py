@@ -1,7 +1,7 @@
-"""
-GenericMatrix.py
-================
-
+# -------------------------------------------------------
+# Generic Matrix
+# Author: Benjelyn Reves Patiag
+# Description:
 A small, **pure NumPy** "quantum-by-matrices" toolkit.
 
 What you can do here:
@@ -27,6 +27,9 @@ from __future__ import annotations
 import math
 import numpy as np
 from typing import Callable, Dict, Iterable, List, Optional, Sequence, Tuple, Union
+========================================
+
+
 
 
 # =========================
