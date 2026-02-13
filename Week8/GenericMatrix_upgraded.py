@@ -1,4 +1,4 @@
-# -------------------------------------------------------
+# =================================================================
 # Generic Matrix
 # Author: Benjelyn Reves Patiag
 # Description:
@@ -27,7 +27,7 @@ from __future__ import annotations
 import math
 import numpy as np
 from typing import Callable, Dict, Iterable, List, Optional, Sequence, Tuple, Union
-========================================
+# =================================================================
 
 
 
